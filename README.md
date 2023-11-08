@@ -3,8 +3,8 @@
 ## Context
 FakeRealStreamlit App is a Python web application built with Streamlit, designed to detect fake and real images using CNN model.
 ## Dataset
-I use the fakevsreal face image dataset availabel in kaggle .
-[Dataset]([URL](https://www.kaggle.com/datasets/ciplab/real-and-fake-face-detection))
+I used the fakevsreal face image dataset availabel on kaggle .
+[Dataset](https://www.kaggle.com/datasets/ciplab/real-and-fake-face-detection)
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
